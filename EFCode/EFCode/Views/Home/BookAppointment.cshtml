@@ -1,0 +1,11 @@
+﻿@model SlotsViewModel
+<div class="tutor">
+    <form method="post" action="@Url.Action("Coordinatorselectdate", "Home")">
+        <input type="date" name="date" />
+        <input type="hidden" id="Requests" name="Requests" value="@Model.Requests[0]" />
+        <input type="hidden" id="Requests" name="Requests" value="@Model.Requests[1]" />
+        <input type="hidden" id="Requests" name="StudentUserName" value="@Model.StudentUserName" />
+        <input type="hidden" id="Requests" name="Name" value="@Model.Name" />
+        <button type="submit">Check Availability</button>
+    </form>
+</div>

@@ -1,0 +1,12 @@
+﻿@model DateTime?
+
+@using (Html.BeginForm("DisplaySlots", "Home", FormMethod.Post))
+{
+    <div>
+        <label for="date-input">Select a date:</label>
+        <input type="date" id="date-input" name="date" value="@Model?.ToString("yyyy-MM-dd")" />
+    </div>
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+}

@@ -1,0 +1,267 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EFCode
+build_property.RootNamespace = EFCode
+build_property.ProjectDir = C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/HomeMine/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU1pbmVcSG9tZXBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/HomeMine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU1pbmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/HomeMine/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU1pbmVcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/HomeMine/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU1pbmVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/HomeMine/StudentView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZU1pbmVcU3R1ZGVudFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/BookAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rQXBwb2ludG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/BookTimeSlot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29rVGltZVNsb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Calender.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxlbmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CancelAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYW5jZWxBcHBvaW50bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CheckAvailability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja0F2YWlsYWJpbGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ContactCoordinator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0Q29vcmRpbmF0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CoordinatorBookTimeSlot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvckJvb2tUaW1lU2xvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CoordinatorDisplaySlots.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvckRpc3BsYXlTbG90cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Coordinatorselectdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvcnNlbGVjdGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CoordinatorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CoordinatorViewProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRvclZpZXdQcm9mZXNzb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CreateAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVBcHBvaW50bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/CreateAppointmentForStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVBcHBvaW50bWVudEZvclN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/deleteAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkZWxldGVBcHBvaW50bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/DeleteSelectedAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVTZWxlY3RlZEFwcG9pbnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/DisplaySlots.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5U2xvdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/EditTutorProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0VHV0b3JQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/EnglishProfessors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbmdsaXNoUHJvZmVzc29ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lcGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ITProfessors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJVFByb2Zlc3NvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ManageAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYW5hZ2VBcHBvaW50bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/MathProfessors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXRoUHJvZmVzc29ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/MyAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeUFwcG9pbnRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/NotificationMethod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljYXRpb25NZXRob2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/NotificationScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3RpZmljYXRpb25TY3JlZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/RegisterStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RlclN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/RequestRecorded.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXF1ZXN0UmVjb3JkZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SaveProfileInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlUHJvZmlsZUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SelectDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxlY3REYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SendRequestsToTutor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZW5kUmVxdWVzdHNUb1R1dG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SetAvailability.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXRBdmFpbGFiaWxpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SlotSaved.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTbG90U2F2ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/StudentProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/StudentView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Student_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdHVkZW50X0hvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/SubmitRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXRSYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/Test.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/TutorProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvclByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/TutorRating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvclJhdGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/TutorResponse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvclJlc3BvbnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/TutorView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvclZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/UpcomingAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGNvbWluZ0FwcG9pbnRtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/UpdateAppointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVBcHBvaW50bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/UpdateAppointmentForStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVcGRhdGVBcHBvaW50bWVudEZvclN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ViewProfessors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3UHJvZmVzc29ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ViewStudentRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3U3R1ZGVudFJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Home/ViewTutorRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3VHV0b3JSZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UniversityTutoring/UniversityTutoringScheduler/EFCode/EFCode/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dsbmbubsfr

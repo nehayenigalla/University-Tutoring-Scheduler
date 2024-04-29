@@ -1,0 +1,10 @@
+﻿@model SlotsViewModel
+<h2>Select the student to create an appointment for: </h2>
+<section>
+    <div class="tutor">
+        <form method="post" action="@Url.Action("CreateAppointmentForStudent", "Home")">
+            @Html.DropDownListFor(m => m.studentUsernameList, new SelectList(Model.studentUsernameList))
+            <button type="submit">Select this Student</button>
+        </form>
+    </div>
+</section>

@@ -1,0 +1,461 @@
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.staticwebassets.runtime.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.exe
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.deps.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.runtimeconfig.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfo.cs
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.EFCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCode.props
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCode.props
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCode.props
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\scopedcss\bundle\EFCode.styles.css
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\scopedcss\projectbundle\EFCode.bundle.scp.css
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.csproj.CopyComplete
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\refint\EFCode.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\EFCode.genruntimeconfig.cache
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\obj\Debug\net6.0\ref\EFCode.dll
+C:\Users\admin\Desktop\SEProject\SEProjectCode copy\EFCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\appsettings.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.staticwebassets.runtime.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.exe
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.deps.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.runtimeconfig.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.pdb
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.AssemblyReference.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfoInputs.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfo.cs
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.CoreCompileInputs.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cs
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.EFCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCode.props
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCode.props
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCode.props
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\bundle\EFCode.styles.css
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\projectbundle\EFCode.bundle.scp.css
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.CopyComplete
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\refint\EFCode.dll
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.pdb
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.genruntimeconfig.cache
+C:\Users\shafi\OneDrive\Desktop\EFCode (8)\EFCode\obj\Debug\net6.0\ref\EFCode.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.staticwebassets.runtime.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.exe
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.deps.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.runtimeconfig.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfo.cs
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cs
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.EFCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCode.props
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCode.props
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCode.props
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\bundle\EFCode.styles.css
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\scopedcss\projectbundle\EFCode.bundle.scp.css
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.csproj.CopyComplete
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\refint\EFCode.dll
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\EFCode.genruntimeconfig.cache
+C:\Users\admin\Downloads\EFCode (8)\EFCode (8)\EFCode\obj\Debug\net6.0\ref\EFCode.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\appsettings.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.staticwebassets.runtime.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.exe
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.deps.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.runtimeconfig.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfo.cs
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.EFCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCode.props
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCode.props
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCode.props
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\bundle\EFCode.styles.css
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\projectbundle\EFCode.bundle.scp.css
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.CopyComplete
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\refint\EFCode.dll
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.pdb
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.genruntimeconfig.cache
+C:\Users\admin\Desktop\SEM1\SEPROJECTFINAL\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\ref\EFCode.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\appsettings.Development.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\appsettings.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.staticwebassets.runtime.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.exe
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.deps.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.runtimeconfig.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\EFCode.pdb
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Azure.Core.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Azure.Identity.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Razor.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Memory.Data.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.AssemblyReference.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfoInputs.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.AssemblyInfo.cs
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.CoreCompileInputs.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.MvcApplicationPartsAssemblyInfo.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.RazorAssemblyInfo.cs
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.sourcelink.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.build.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.development.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.EFCode.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.build.EFCode.props
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EFCode.props
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EFCode.props
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\bundle\EFCode.styles.css
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\scopedcss\projectbundle\EFCode.bundle.scp.css
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.csproj.Up2Date
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\refint\EFCode.dll
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.pdb
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\EFCode.genruntimeconfig.cache
+C:\UniversityTutoring\UniversityTutoringScheduler\EFCode\EFCode\obj\Debug\net6.0\ref\EFCode.dll
