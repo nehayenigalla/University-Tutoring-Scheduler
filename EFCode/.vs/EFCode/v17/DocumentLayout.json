@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\views\\home\\viewprofessors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\views\\home\\viewprofessors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\models\\slotsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\models\\slotsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\registrationvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\registrationvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\RegisterViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\views\\home\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\views\\home\\studentprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\views\\home\\booktimeslot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\views\\home\\booktimeslot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\SlotsViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\loginvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|c:\\universitytutoring\\universitytutoringscheduler\\efcode\\efcode\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD36FAED-7FF7-4B3D-9145-158B7F47CEE7}|EFCode\\EFCode.csproj|solutionrelative:efcode\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentProfile.cshtml",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\StudentProfile.cshtml",
+              "RelativeDocumentMoniker": "EFCode\\Views\\Home\\StudentProfile.cshtml",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\StudentProfile.cshtml",
+              "RelativeToolTip": "EFCode\\Views\\Home\\StudentProfile.cshtml",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAAA8BAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:09:36.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\RegisterViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:02:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationValidation.cs",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\RegistrationValidation.cs",
+              "RelativeDocumentMoniker": "EFCode\\RegistrationValidation.cs",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\RegistrationValidation.cs",
+              "RelativeToolTip": "EFCode\\RegistrationValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:09:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewProfessors.cshtml",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\ViewProfessors.cshtml",
+              "RelativeDocumentMoniker": "EFCode\\Views\\Home\\ViewProfessors.cshtml",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\ViewProfessors.cshtml",
+              "RelativeToolTip": "EFCode\\Views\\Home\\ViewProfessors.cshtml",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:09:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlotsViewModel.cs",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Models\\SlotsViewModel.cs",
+              "RelativeDocumentMoniker": "EFCode\\Models\\SlotsViewModel.cs",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Models\\SlotsViewModel.cs",
+              "RelativeToolTip": "EFCode\\Models\\SlotsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:09:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SlotsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\SlotsViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\SlotsViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\SlotsViewModel.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\admin\\Desktop\\SEM1\\SEProject\\SEProjectCode copy\\EFCode\\Models\\SlotsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:05:25.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginValidation.cs",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\LoginValidation.cs",
+              "RelativeDocumentMoniker": "EFCode\\LoginValidation.cs",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\LoginValidation.cs",
+              "RelativeToolTip": "EFCode\\LoginValidation.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:09:37.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFCode\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFCode\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAEwEMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:09:37.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookTimeSlot.cshtml",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\BookTimeSlot.cshtml",
+              "RelativeDocumentMoniker": "EFCode\\Views\\Home\\BookTimeSlot.cshtml",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\BookTimeSlot.cshtml",
+              "RelativeToolTip": "EFCode\\Views\\Home\\BookTimeSlot.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:09:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "EFCode\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "EFCode\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:09:37.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Homepage.cshtml",
+              "DocumentMoniker": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\Homepage.cshtml",
+              "RelativeDocumentMoniker": "EFCode\\Views\\Home\\Homepage.cshtml",
+              "ToolTip": "C:\\UniversityTutoring\\UniversityTutoringScheduler\\EFCode\\EFCode\\Views\\Home\\Homepage.cshtml",
+              "RelativeToolTip": "EFCode\\Views\\Home\\Homepage.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T06:09:37.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

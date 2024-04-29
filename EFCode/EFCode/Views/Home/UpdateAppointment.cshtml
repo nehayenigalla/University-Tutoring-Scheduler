@@ -1,0 +1,36 @@
+﻿@model SlotsViewModel
+<h2>Select the student to Update an appointment for: </h2>
+<section>
+    <div class="tutor">
+        <form method="post" action="@Url.Action("UpdateAppointmentForStudent", "Home")">
+            @Html.DropDownListFor(m => m.studentUsernameList, new SelectList(Model.studentUsernameList))
+            @Html.DropDownListFor(m => m.TutorUserName, new SelectList(Model.TutorUserName))
+            <button type="submit">Select this Tutor</button>
+        </form>
+    </div>
+</section>
+@if (Model.Requests != null && Model.Requests.Count > 0)
+{
+    <h2>Choose a slot to delete and choose a new one</h2>
+    <ul>
+        @for (int i = 0; i < Model.Requests.Count; i += 2)
+        {
+            <li>
+                <form method="post" action="@Url.Action("BookAppointment", "Home")">
+                    <input type="hidden" name="SelectedStudentUsername" value="@Model.studentUsernameList" />
+                    <input type="hidden" name="SelectedTutorUserName" value="@Model.TutorUserName" />
+                    <input type="hidden" name="SelectedSlot1" value="@Model.Requests[i]" />
+                    @if (i + 1 < Model.Requests.Count)
+                    {
+                        <input type="hidden" name="SelectedSlot2" value="@Model.Requests[i + 1]" />
+                        <button type="submit">@Model.Requests[i] - @Model.Requests[i + 1]</button>
+                    }
+                    else
+                    {
+                        <button type="submit">@Model.Requests[i]</button>
+                    }
+                </form>
+            </li>
+        }
+    </ul>
+}
